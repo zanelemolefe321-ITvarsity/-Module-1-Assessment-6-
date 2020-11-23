@@ -1,0 +1,48 @@
+
+h1{
+    color: blue;
+    background-color: chartreuse;
+}
+h2{
+    color:rebeccapurple;
+}
+h3{
+    color:crimson;
+}
+h4{
+    color:darkgoldenrod;
+}
+p{
+    font-family: Helvetica, sans-serif;
+}
+table{
+    border-collapse: collapse;
+    font-family: Helvetica, sans-serif;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #C36464
+}
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: cornflowerblue;
+    padding-top: 12px;
+}
+#menu a{
+    color: #ffffff;
+    font-family: Helvetica, sans-serif
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+#menu a:hover{
+    color: #5077bd;
+}
+
+
+
+
